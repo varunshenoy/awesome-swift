@@ -232,6 +232,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
+* [Tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples/) - A Google-backed AI library with the highest accuracy for neural networks. Documentation for iOS development is lacking, but it is a good thing to look into nonetheless.
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 
